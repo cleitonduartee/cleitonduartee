@@ -13,10 +13,12 @@
     <br/>
   </div>
 
-  <div>
-    <a href="https://github.com/cleitonduartee">
+ <div>
+ <a href="https://github.com/cleitonduartee">
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cleitonduartee&show_icons=true&include_all_commits=true&theme=gotham"
     </a>
+</div>
+  <div>   
     <a href="https://github.com/cleitonduartee">
        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cleitonduartee&layout=compact&langs_count=8&theme=gotham"/>
      </a>
