@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Cleiton Duarte 👨‍💻
+# Olá 👋 Sou Cleiton Duarte 👨‍💻
 <code>
  <div style="margin-bottom:20px">
     <h3>Languages and Tools:</h3>
